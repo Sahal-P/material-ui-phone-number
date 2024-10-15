@@ -1090,7 +1090,7 @@ const rawAllCountries = [
     ['middle-east'],
     'qa',
     '974',
-    '+... (..) ... ...',
+    '+... .. ... ...',
   ],
   [
     'Réunion',
